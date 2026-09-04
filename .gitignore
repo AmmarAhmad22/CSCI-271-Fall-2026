@@ -1,0 +1,6 @@
+hello
+*.o
+*.out
+*.exe
+Debug/
+Release/

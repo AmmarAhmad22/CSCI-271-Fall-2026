@@ -1,2 +1,1 @@
-# CSCI-271-Fall-2026
-Practice repository for CSCI 271
+My name is Ammar Ahmad and this is my practice repository for CSCI 271 fall semester!
